@@ -14,7 +14,7 @@ Functionality:
 	Loops through any new posts and sees if they are reposts - images, same title, same contents.
 	Lists all the posts in the subreddit that are reposts.
 
-Created by Jojo Masala /u/slaynShadow
+Created by /u/slaynShadow
 
 Licence:
 
